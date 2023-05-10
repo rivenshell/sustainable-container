@@ -1,6 +1,8 @@
 <b>Project Overview</b>
 This project is focused on the development of sustainable container homes. The goal is to create homes that are energy-efficient, environmentally friendly, and affordable.
 
+![Screenshot 2023-05-10 183032](https://github.com/rivenshell/sustainable-container/assets/53383837/e62aee51-8417-4bbb-b689-14dde8b3de10)
+
 <b>Sustainability</b>
 Sustainability is a key focus of this project. The homes will be designed to minimize their environmental impact. This will be achieved through the use of sustainable materials, energy-efficient appliances, and water-saving features.
 
