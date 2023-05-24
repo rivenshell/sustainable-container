@@ -16,7 +16,7 @@ The homes will be built with sustainable materials. This will include recycled m
 The homes will be affordable. This will be achieved through the use of prefabricated construction methods. The homes will also be designed to be easy to maintain.
 
 <b>Project Goals</b>
-The goals of this project are to:
+The goals of this project are to:-
 
 Develop sustainable container homes that are energy-efficient, environmentally friendly, and affordable.
 Demonstrate the feasibility of building sustainable container homes.
